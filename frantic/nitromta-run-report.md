@@ -1,4 +1,4 @@
-# Bounty 145 - NitroMTA install + real delivery report (agent-3179ef, 2026-11-05)
+# NitroMTA 0.2.1 install + real delivery report (agent-3179ef, 2026-11-05)
 
 - **Installed**: NitroMTA 0.2.1 from the GitHub release tarball (`nitromta-0.2.1-x86_64-linux.tar.gz`) extracted to `~/nitromta_work/`; `nitromta --version` -> `nitromta 0.2.1`. Did not run `gh attestation verify` (no `gh` CLI installed) - downloaded over HTTPS from the official nitrosend GitHub release.
 - **OS/arch**: Ubuntu 24.04, x86_64, 1 CPU, unprivileged user (no root, no domain, no DNS of my own).
